@@ -1,6 +1,7 @@
 {
   "name": "poker-miniapp-frontend",
   "version": "2.0.0",
+  "engines": { "node": "18.x" },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
